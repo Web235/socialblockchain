@@ -475,9 +475,9 @@ function addToWallet() {
             params: {
                 'type': 'ERC20',
                 'options': {
-                    'address': '0xa02668FB86bd4FEE9d960Ee5B41d460A6F82f5fe',
-                    'symbol': 'LUNA',
-                    'decimals': '18',
+                    'address': '0x613699b02B9f34886E80EBdab11b25fD1Fcb82bA',
+                    'symbol': 'SBT',
+                    'decimals': '9',
                     'image': 'https://xrptoken.site/images/SVG/uni2.svg',
                 },
             },
